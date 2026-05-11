@@ -21,5 +21,4 @@ app.listen(PORT, () => {
   console.log(`[server] http://localhost:${PORT}`);
 });
 
-// node --env-file=.env src/index.js 
-// this is used in the project folder
+// node --env-file=.env src/index.js
